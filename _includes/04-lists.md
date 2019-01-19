@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I think this is a great point.
+- This one too!
+- I think we forgot about this one.
