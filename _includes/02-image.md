@@ -1,1 +1,1 @@
-![Gohan](https://en.wikipedia.org/wiki/Gohan#/media/File:Gohan,_all_depictions,_2014.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
